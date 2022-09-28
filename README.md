@@ -24,5 +24,5 @@ Let's say that your e-shop business offers several different shipping types for 
 
 These three types contain different shipping costs calculation logic which should be determined at run-time, e.g. when the customer selects a specific shipping option in UI.
 
-![strategy design pattern example]https://raw.githubusercontent.com/m8811163008/strategy_design_pattern/master/assets/screenshots/1.png
+![strategy design pattern example](https://raw.githubusercontent.com/m8811163008/strategy_design_pattern/master/assets/screenshots/1.png)
 
